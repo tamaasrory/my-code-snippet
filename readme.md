@@ -1,6 +1,7 @@
+# PHP
 
+### Filter and Find string with array_filter and preg_match
 
-Filter and Find string with preg_match
 ```php
 <?php
 $data = ["33.01.03", "01.33.02", " 01.01.33", "33.02.01"];
